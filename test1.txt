@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 8EB8-674C
+
+ Directory of C:\Users\savit\Desktop\MyProject
+
+09-11-2023  16:35    <DIR>          .
+09-11-2023  16:31    <DIR>          ..
+09-11-2023  16:35                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  120,795,308,032 bytes free
